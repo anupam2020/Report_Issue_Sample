@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_outline_home_24" />
+
+    <item
+        android:title="Report"
+        android:id="@+id/report"
+        android:icon="@drawable/ic_baseline_report_gmailerrorred_24"/>
+
+    <item
+        android:title="Residents"
+        android:id="@+id/residents"
+        android:icon="@drawable/ic_baseline_person_outline_24"/>
+
+    <item
+        android:title="Certificates"
+        android:id="@+id/certificates"
+        android:icon="@drawable/ic_outline_fact_check_24"/>
+
+</menu>
